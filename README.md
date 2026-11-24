@@ -7,6 +7,12 @@
 - [学习笔记入口](docs/notes/index.md)
 - [新增项目/笔记模板](templates/)
 
+## 在线浏览
+
+网站地址（首次部署成功后生效）：https://why250.github.io/analog-ic-exploration/
+
+维护者首次启用：打开仓库 Settings → Pages → Build and deployment → Source，选择 GitHub Actions。合并到 main 后自动构建并部署；也可在 Actions → Documentation 中手动运行。PR 只构建检查，不部署。构建或部署失败时查看 Actions 日志。
+
 ## 本地浏览
 
 直接使用 GitHub 阅读 Markdown，或安装 Zensical（推荐在虚拟环境中）：
