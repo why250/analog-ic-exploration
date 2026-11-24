@@ -9,7 +9,7 @@ nav = [
   { "首页" = "index.md" },
   { "项目索引" = "catalog.md" },
   { "学习方法" = "workflow.md" },
-  { "项目学习" = [ { "SG13G2 VCO / FPLL" = "projects/sg13g2-vco-fpll/index.md" } ] },
+  { "项目学习" = [ { "SG13G2 VCO / FPLL" = [ { "概览" = "projects/sg13g2-vco-fpll/index.md" }, { "01 VCO 拆解与数据分析" = "projects/sg13g2-vco-fpll/01-vco-study.md" }, { "02 最小复现实验" = "projects/sg13g2-vco-fpll/02-reproduction.md" } ] } ] },
   { "学习笔记" = "notes/index.md" },
 ]
 
