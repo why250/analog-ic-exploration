@@ -1,4 +1,6 @@
 [project]
+site_url = "https://why250.github.io/analog-ic-exploration/"
+repo_url = "https://github.com/why250/analog-ic-exploration"
 site_name = "Analog IC Exploration"
 site_description = "Analog/RF IC × LLM × EDA Automation 学习实验室"
 docs_dir = "docs"
