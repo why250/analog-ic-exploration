@@ -8,6 +8,7 @@
 | [serdes_sky130](https://github.com/whitedeerpro-arch/serdes_sky130) | 电路 / SerDes | 待评估 | 确认模块范围与仿真入口 | — |
 | [vco-design-studio](https://github.com/chloeyntu-byte/vco-design-studio) | 工具 / VCO 设计 | 待评估 | 确认 EDA 及 AI 的实际职责 | — |
 | [gmoverid-skill](https://github.com/Arcadia-1/gmoverid-skill) | 工具 / gm/Id | 待评估 | 确认可运行示例、环境和输出 | — |
+| [analog-canvas](https://github.com/cascode-ai/analog-canvas) | AI / 原理图自动化、EDA MCP、规格验证 | 待学习 | 固定 CLI 版本，运行共源放大器示例并核对 SVG、网表和参数扰动 | [学习页](projects/analog-canvas/index.md) |
 
 ## 状态说明
 
